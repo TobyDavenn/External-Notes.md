@@ -17,4 +17,6 @@ Also tool called mailsniper
 <h2> bypassing MFA </h2>
 Tool called MFAsweep, pass valid email and password and it will check where it can login with 2FA.
 
+<br>
+<br>
 Use vulnerability scanning on the permimiter to look into services and any associated CVEs
