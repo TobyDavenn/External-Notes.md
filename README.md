@@ -7,6 +7,9 @@ put all accounts into a txt file for password spraying.
 
 Find login panels for the company, try reset PW pages and logins to see valid accounts. Google dork will help find login panels
 
+<h2> Find emails </h2>
+Use tool online called hunter, phonebook.cz, voilanorbert.com, chrome extension clearbit,
+
 <h2> Attacking office 365 </h2>
 tool called trevorspray can be used to spray external emails, ensure to know lockout account policy.
 
@@ -20,3 +23,6 @@ Tool called MFAsweep, pass valid email and password and it will check where it c
 <br>
 <br>
 Use vulnerability scanning on the permimiter to look into services and any associated CVEs
+
+<h2> Use google dorking to find login panels </h2>
+<h2> Gather subdomains </h2>
